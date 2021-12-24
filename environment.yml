@@ -1,0 +1,11 @@
+name: sfds
+channels:
+  - defaults
+dependencies:
+  - python
+  - notebook
+  - xgboost
+  - graphviz
+  - arrow
+  - plotly
+prefix: /opt/anaconda3/envs/sfds
